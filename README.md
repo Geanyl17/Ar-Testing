@@ -3,9 +3,11 @@ AR Chicken Tracking
 Original Youtube Link : https://www.youtube.com/watch?v=W9h0RU56Xa4
 
 SETUP (not mentioned in video)
-Needed Packages
+
+	Needed Packages
     *Universal RP (Universal RenderPipeline)
-    If You don't have a Render Pipeline Assets Settings Folder when you install a package
+    
+	 If You don't have a Render Pipeline Assets Settings Folder when you install a package
           1. Manually Create a URP Pipeline Asset
               In the Project window, go to the Assets folder.
               Right-click → Create > Rendering > Universal Render Pipeline > Pipeline Asset (Forward Renderer).
